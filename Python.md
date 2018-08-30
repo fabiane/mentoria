@@ -13,7 +13,7 @@
 
 
 **ATENÇÃO:**
-==SIGA NA ORDEM==, não pule, não vá direto pra web, Machine Learning ou Data Science senão sabe o que é uma tupla, 
+SIGA NA ORDEM, não pule, não vá direto pra web, Machine Learning ou Data Science senão sabe o que é uma tupla, 
 um dicionário de dados, listas, como trabalhar com funções, ou manipular Estruturas de dados complexas.
 
 **1º - Comece aqui - Cursos Base ->** Aprendendo a programar e/ou lógica de programação com Python
@@ -60,7 +60,7 @@ https://www.packtpub.com/packt/offers/free-learning
 Não gostou dessa trilha? O que achou que não tá bão? Os cursos? Faltou algo? :(
 Me de um feedback do porquê e vamos melhorá-la :)
 
-Divisão de conhecimento é nossa meta! E você, vai chegar em algum lugar, como eu cheguei até você! :) :satisfied:
+Divisão de conhecimento é nossa meta! E você, vai chegar em algum lugar, como eu cheguei até você! :)
 
 
 
