@@ -1,4 +1,3 @@
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 **Mentora:** Fabiane C. De Souza Almeida
 
 **Linkedin:** https://www.linkedin.com/in/fabianesouzaalmeida
