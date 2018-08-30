@@ -41,9 +41,9 @@ B - https://www.udemy.com/python-tutorial-for-beginners/
 
 [Curso pago em Pt-Br - bom professor - É um curso base p/ esta área](https://www.udemy.com/python-para-data-science-e-machine-learning/)
 
-**Livre/Opcional - Internet da coisas (IoT)** - recomendo aprender sobre RaspberryPi ou ESP32 c/ MicroPython:
+**Livre/Opcional - Internet da coisas (IoT)** - recomendo aprender sobre RaspberryPi ou ESP c/ MicroPython:
 
-Neste caso, precisará adquirir um SBCs (recomendo Raspberry por ser o mais popular).
+Neste caso, precisará adquirir um SBCs (recomendo Raspberry por ser o mais popular, porém necessita estudá-lo por causa do Linux).
 Mas ANTES de comprar, recomendo que estude sobre, veja vídeos, veja tutoriais. 
 Pesquise sobre projetos eletrônicos, aprenda sobre SBCs (Single Board Computer) que estão no mercado, prototipação em Protoboards, NÃO é impossível, ok?
 
