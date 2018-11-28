@@ -18,28 +18,28 @@ um dicionário de dados, listas, como trabalhar com funções, ou manipular Estr
 
 **1º - Comece aqui - Cursos Base ->** Aprendendo a programar e/ou lógica de programação com Python
 
-[Udemy Free - Inglês](https://www.udemy.com/python-tutorial-for-beginners/)
+- [Udemy Free - Inglês](https://www.udemy.com/python-tutorial-for-beginners/)
 
 ou
 
- [Udemy pago Pt-Br, ótimo professor, aborda até OO e Kivy p/ Android e IOS](https://www.udemy.com/curso-de-python-android-ios-windows-linux-mac/)
+- [Udemy pago Pt-Br, ótimo professor, aborda até OO e Kivy p/ Android e IOS](https://www.udemy.com/curso-de-python-android-ios-windows-linux-mac/)
 
 
 **2º - Praticar, praticar e praticar** -> Aprenda a manipular/trabalhar com Estrutura de dados resolvendo exercícios,
 após ter concluído 1 um dos cursos base:
   
-A - https://www.udemy.com/python-handon/ 
+- A - https://www.udemy.com/python-handon/ 
 
-B - https://www.udemy.com/python-tutorial-for-beginners/ 
+- B - https://www.udemy.com/python-tutorial-for-beginners/ 
 
 
 **Livre/Opcional - Desenvolvimento WEB**
 
-[Django - criando um CRUD básico (free) - Pt-Br - Ótimo professor Br, recomendo fazer todos desse Prof. relacionado a Django/Rest](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/)
+- [Django - criando um CRUD básico (free) - Pt-Br - Ótimo professor Br, recomendo fazer todos desse Prof. relacionado a Django/Rest](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/)
 
 **Livre/Opcional - Machine Learning e Data Science**
 
-[Curso pago em Pt-Br - bom professor - É um curso base p/ esta área](https://www.udemy.com/python-para-data-science-e-machine-learning/)
+- [Curso pago em Pt-Br - bom professor - É um curso base p/ esta área](https://www.udemy.com/python-para-data-science-e-machine-learning/)
 
 **Livre/Opcional - Internet da coisas (IoT)** - recomendo aprender sobre RaspberryPi ou ESP c/ MicroPython:
 
@@ -53,7 +53,7 @@ Na minha página, há vários tutoriais que eu e meu marido criamos em 2010, inc
 http://www.pictronics.org/
 
 Livros:
-Packt:
+- Packt:
 Recomendo livros free do Packt. Todo dia tem um free, é só acompanhar. Eles sempre fazem rodízio, não se preocupe de perder algum. Aconselho a acompanhar através do Bot telegram: @packtfreebot 
 https://www.packtpub.com/packt/offers/free-learning 
 
